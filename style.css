@@ -1,0 +1,35 @@
+body
+{
+   color: rgb(95, 189, 156);
+}
+
+#header
+{
+    color: rgb(53, 250, 207);
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3,h4
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top:5px;
+    width:20px;
+}
+
+#footer
+{
+    background-color: white;
+    width:1000px;
+    
+}
+
+
